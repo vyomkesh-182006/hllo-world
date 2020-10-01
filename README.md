@@ -1,3 +1,3 @@
-# hllo-world
+# hello-world
 siple program to start ur first project
-print("hllo world!")
+print("hello world!")
